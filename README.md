@@ -1,2 +1,3 @@
-# DatabaseExperience
-Repositório contendo os exercícios propostos no Bootcamp Database Experience da Digital Innovation One.
+# Bootcamp Database Experience
+
+Repositório contendo os exercícios do Bootcamp Database Experience oferecido pela Digital Innovation One.
